@@ -1,3 +1,11 @@
 body{
     background: #BDBDBD;
 }
+.hero {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image:url('/website/assets/img/bg.jpg');
+    height: 40rem;
+    padding:0;
+}
